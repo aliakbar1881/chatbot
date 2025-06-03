@@ -1,0 +1,19 @@
+name: chatbot
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - requests
+  - fastapi
+  - uvicorn
+  - pydantic
+  - openai
+  - langchain
+  - langchain-community
+  - langchain-core
+  - 
+  - pip:
+    - python-dotenv
+    - 
